@@ -1,0 +1,44 @@
+/* Write your CSS here */
+.capitals-bg-container {
+  background-color: #93c5fd;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.capitals-card {
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 10px;
+}
+.heading {
+  color: #323f4b;
+  font-size: 24px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.dropdown-container {
+  padding: 6px;
+  border: 1px solid #cbd2d9;
+  outline: none;
+  font-weight: bold;
+  color: black;
+  font-family: 'Roboto';
+}
+.options {
+  color: black;
+  font-weight: bold;
+}
+.description {
+  color: #1e293b;
+  font-size: 14px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+.capitalName-text {
+  color: #1e293b;
+  font-size: 18px;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
